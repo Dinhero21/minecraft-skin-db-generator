@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-skin-db",
+  "name": "minecraft-skin-db-generator",
   "version": "1.0.0",
   "description": "Database of Minecraft Skins",
   "main": "index.js",
